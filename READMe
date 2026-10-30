@@ -1,0 +1,27 @@
+# 🧸 Happy Kids Online Toy Store
+
+Happy Kids Toy Store is a simple and colourful online toy store website developed using HTML5. The website showcases different types of toys, including teddy bears, robots, remote cars, dolls, puzzle games, and building blocks. It includes an introduction to the store, a toy collection section, and an interactive toy order form where users can enter their details, select toys, choose brands, and provide delivery preferences. The website also features a list of store facilities, special offers, and attractive headings with colourful backgrounds. HTML elements such as tables, lists, forms, input fields, `<details>`, `<summary>`, and `<marquee>` are used to demonstrate basic web development concepts. This project helps beginners understand HTML structure and form elements while creating a simple online shopping webpage.
+ 
+## ✨ Features
+- Colourful and attractive toy store design.
+- Toy collection with different categories.
+- Customer toy order form.
+- Input fields for name, email, phone number, age, and delivery date.
+- Radio buttons, checkboxes, dropdown menus, and text areas.
+- Special offers and store facilities.
+- HTML formatting and table elements.
+
+## 🛠️ Technologies Used
+- HTML5
+
+## 🚀 How to Run
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open `index.html` in any web browser.
+4. Explore the Happy Kids Toy Store webpage.
+
+## 🎯 Project Objective
+The objective of this project is to learn and demonstrate fundamental HTML5 elements by developing a simple online toy store website.
+
+## 👩‍💻 Author
+Happy Kids Toy Store – HTML5 Web Development Project.
